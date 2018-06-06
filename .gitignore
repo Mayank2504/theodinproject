@@ -11,7 +11,7 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
-
+#this is my change -- Mayank
 # Ignore any assets that may have been precompiled locally
 # e.g. to test run the production environment locally
 /public/assets
